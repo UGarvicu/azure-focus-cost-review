@@ -1,0 +1,5 @@
+BilledCost,BillingCurrency,ChargePeriodStart,ServiceName,Tags
+12.50,EUR,2026-09-01T00:00:00Z,Virtual Machines,"{""costCenter"":""platform""}"
+2.25,EUR,2026-09-02T00:00:00Z,Storage,"{""costCenter"":""analytics""}"
+-0.50,EUR,2026-09-03T00:00:00Z,Virtual Machines,"{""costCenter"":""platform""}"
+4.00,EUR,2026-09-04T00:00:00Z,Networking,{}
